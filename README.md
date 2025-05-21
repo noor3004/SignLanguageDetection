@@ -36,4 +36,12 @@ python app.py
 
 ## Model Details
 The classifier is implemented in `keypoint_classifier.py` and uses TensorFlow Lite for efficient inference. The model processes hand landmarks and predicts the corresponding sign language gesture.
+## Outputs
+![yes](https://github.com/user-attachments/assets/9f5a2397-69d0-4e41-bd56-89f36b227bfd)
+![iloveyou](https://github.com/user-attachments/assets/d68f1bc3-45e9-4506-8de4-96883a748842)
+![thanks](https://github.com/user-attachments/assets/9faf35bc-a0af-4fa1-9f9d-e68faa320610)
+![hello](https://github.com/user-attachments/assets/0eb11c52-1878-46ec-b5f8-e209e7c3c3b9)
+
+https://drive.google.com/file/d/10WRrfGqRB33IcIwsdnMFZqTjlGqVxYu9/view?usp=drive_link
+
 
